@@ -3,7 +3,6 @@ public class long_subarray_sum {
     int[] nums = { 2, 3, 5 };
     int step = longestSubarray(nums, 10);
     System.out.println(step);
-
   }
 
   static int longestSubarray(int[] nums, int k) {
