@@ -1,6 +1,3 @@
-import java.util.HashSet;
-import java.util.Set;
-
 public class remove_dublicate {
   public static void main(String[] args) {
     int[] arr = { 1, 1, 2, 2, 3, 3, 4, 4 };
